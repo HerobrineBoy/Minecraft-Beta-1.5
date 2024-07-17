@@ -1,4 +1,4 @@
-# Beta 1.7.2
-**Play it [here](https://peytonplayz595.github.io/Beta-1.7.3/web/)**
+# Beta 1.5
+**Play it here  https://herobrineboy.github.io/Minecraft-Beta-1.5/
 ..this is by peytonplayz585 but i wanted to make a own so i did. 
 
